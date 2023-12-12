@@ -1,8 +1,8 @@
 # To-do-list Spring Boot
 Atividade Infocorp - Time de Back-end
-
-(*) Primeiro projeto back-end com Spring Boot
 ---
+(*) Primeiro projeto back-end com Spring Boot
+
 #Todos os Packages usados (destacando as classes & arquivos principais):
 - Controllers
   - UserController
