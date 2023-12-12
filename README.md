@@ -1,7 +1,7 @@
 # To-do-list Spring Boot
 Atividade Infocorp - Time de Back-end
 ---
-#Todos os Packages usados:
+#Todos os Packages usados (destacando as classes & arquivos principais):
 - Controllers
   - UserController
   - TaskController
