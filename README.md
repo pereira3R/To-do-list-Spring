@@ -1,5 +1,5 @@
 # To-do-list Spring Boot
--> Atividade Infocorp - Time de Back-end
+=> Atividade Infocorp - Time de Back-end
 ---
 ##Todos os Packages usados:
 - Controllers
