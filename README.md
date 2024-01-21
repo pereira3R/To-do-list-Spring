@@ -84,7 +84,7 @@ This is an example of how to list things you need to use the software and how to
 | <img src="./imageDeveloper/anthony.jpeg" alt="Anthony's Photo" width="100"/> |
 
 - **Email:** anthony_rodriguespereira@outlook.com
-- **LinkedIn:** [Anthony's LinkedIn]([[https://www.linkedin.com/in/anthony-rezende](https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/)](https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/))
+- **LinkedIn:** <a href="https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/"> Anthony's LinkedIn </a>
 
 
 ## Acknowledgments
