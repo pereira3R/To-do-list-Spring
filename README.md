@@ -37,7 +37,7 @@ The technologies used to develop the project are very simple.
   <img align="center" alt="Anthony-Js" height="38" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Bootstrap" height="38" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Java" height="38" width="100" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Spring Boot" height="38" width="100" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Spring Boot" height="38" width="120" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
 </div>
