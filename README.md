@@ -53,8 +53,8 @@ To use the project, simply use the VsCode live server in "index.html" we didn't 
 | --- |
 | <img src="./imageDeveloper/anthony.jpeg" alt="Anthony's Photo" width="100"/> |
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Anthony's LinkedIn](https://www.linkedin.com/in/anthony-rezende)
+- **Email:** anthony_rodriguespereira@outlook.com
+- **LinkedIn:** [Anthony's LinkedIn]([https://www.linkedin.com/in/anthony-rezende](https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/))
 
 
 ## Acknowledgments
