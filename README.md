@@ -50,7 +50,7 @@ To use the project, simply use the VsCode live server in "index.html" we didn't 
 
 ## Contact
 <strong> Project Developer Members: </strong> We are both Computer Science students at the Federal University of Mato Grosso
-| <img src="./ImagesMembers/anthony.jpeg" alt="Anthony's Photo" width="100"/> Anthony Ricardo Rodrigues Rezende |
+| <img src="./imageDeveloper/anthony.jpeg" alt="Anthony's Photo" width="100"/> Anthony Ricardo Rodrigues Rezende |
 | --- | --- |
 
 
