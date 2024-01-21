@@ -42,12 +42,25 @@ The technologies used to develop the project are very simple.
 
 </div>
 
-## Usage
+<!-- GETTING STARTED -->
+## Getting Started
 
-To use the project, simply use the VsCode live server in "index.html" we didn't do the backend.
-<div style="display: block"><br>
-<img align="center" alt="Live Server" height="38" width="120" src="https://img.shields.io/badge/Live%20Server-323330?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
+This is an example of how you may give instructions on setting up your Spring Boot project locally. To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* Java Development Kit (JDK)
+  - Download and install the latest JDK from [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) or [OpenJDK](https://adoptopenjdk.net/).
+* Maven
+  - Download and install Maven from [https://maven.apache.org/install.html](https://maven.apache.org/install.html).
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/your-spring-boot-project.git
+
 
 ## Contact Information:
 
