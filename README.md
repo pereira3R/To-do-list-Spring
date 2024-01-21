@@ -47,10 +47,13 @@ To use the project, simply use the VsCode live server in "index.html" we didn't 
 <img align="center" alt="Live Server" height="38" width="120" src="https://img.shields.io/badge/Live%20Server-323330?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
-## Contact
-<strong> Project Developer Members: </strong> We are both Computer Science students at the Federal University of Mato Grosso
-| <img src="./imageDeveloper/anthony.jpeg" alt="Anthony's Photo" width="100"/> Anthony Ricardo Rodrigues Rezende |
-| --- | --- |
+| Anthony Ricardo Rodrigues Rezende |
+| --- |
+| <img src="./imageDeveloper/anthony.jpeg" alt="Anthony's Photo" width="100"/> |
+
+### Contact Information:
+- **Email:** your.email@example.com
+- **LinkedIn:** [Anthony's LinkedIn](https://www.linkedin.com/in/anthony-rezende)
 
 
 ## Acknowledgments
