@@ -1,9 +1,11 @@
 # To-do-list Spring Boot
-Atividade Infocorp - Time de Back-end
----
-(*) Primeiro projeto back-end com Spring Boot
+
+Activity carried out by the Infocorp back-end team - completed in November 2023
+
+## First Simple Project with Spring Boot
 
 #Todos os Packages usados (destacando as classes & arquivos principais):
+
 - Controllers
   - UserController
   - TaskController
@@ -26,4 +28,4 @@ Atividade Infocorp - Time de Back-end
   - index.html
   - script.js
   - css.style (+ Boostrap 5)
----
+
