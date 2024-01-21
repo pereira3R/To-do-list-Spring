@@ -58,7 +58,7 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Clone the repo
-2. 
+
  ```sh
   git clone https://github.com/your_username_/your-spring-boot-project.git
   ```
