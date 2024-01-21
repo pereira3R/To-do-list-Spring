@@ -47,7 +47,7 @@ To use the project, simply use the VsCode live server in "index.html" we didn't 
 <img align="center" alt="Live Server" height="38" width="120" src="https://img.shields.io/badge/Live%20Server-323330?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
-### Contact Information:
+## Contact Information:
 
 | Anthony Ricardo Rodrigues Rezende |
 | --- |
