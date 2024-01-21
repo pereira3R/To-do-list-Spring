@@ -58,10 +58,21 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Clone the repo
-   ```sh
+    ```sh
    git clone https://github.com/your_username_/your-spring-boot-project.git
+   ```
+2. Navigate to the project directory
 
+  ```cd your-spring-boot-project
+   ```
+3. Build the project using Maven
 
+ ```mvn clean install
+   ```
+4. Run the application
+   
+ ```java -jar target/your-spring-boot-project.jar
+   ```
 ## Contact Information:
 
 | Anthony Ricardo Rodrigues Rezende |
