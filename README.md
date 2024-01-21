@@ -86,12 +86,13 @@ This is an example of how to list things you need to use the software and how to
 - **Email:** anthony_rodriguespereira@outlook.com
 - **LinkedIn:** <a href="https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/"> Anthony's LinkedIn </a>
 
-
 ## Acknowledgments
 Useful resources that we would like to give credit for.
 
-- CSS Web3School [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
+- Lucas Ângelo [https://www.youtube.com/watch?v=YcO-Q6yozmU&list=PLiXotHlANc8ptwP6wajo73OZo9Nh5i597](https://www.youtube.com/watch?v=YcO-Q6yozmU&list=PLiXotHlANc8ptwP6wajo73OZo9Nh5i597)
+- Ralf Lima [https://www.youtube.com/watch?v=8D5BS1NbHPM&list=PLWXw8Gu52TRI0usqoSTLrioF6NPp-3msb](https://www.youtube.com/watch?v=8D5BS1NbHPM&list=PLWXw8Gu52TRI0usqoSTLrioF6NPp-3msb)
 - JS Web3School [https://www.w3schools.com/js/default.asp](https://www.w3schools.com/js/default.asp)
 - Bootstrap [https://getbootstrap.com/](https://getbootstrap.com/)
+- Java POO - UFMT [https://sites.google.com/ic.ufmt.br/algoritmos-3-co-2023-1/](https://sites.google.com/ic.ufmt.br/algoritmos-3-co-2023-1/)
 
 ##
